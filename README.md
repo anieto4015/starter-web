@@ -15,4 +15,11 @@ As stated before, the main purpose is to provide simple examples.
 
 ## Deployment
 
+This is a simple web project, deployment 
+can be on any web servers or even in the local
+file system.
+
+Just a text to catch up.
+
+Just a test to catch up 
 ## How to Contribute
