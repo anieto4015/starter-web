@@ -10,4 +10,6 @@ Copyrigth Git Training.
 
 ## Purpose
 
+## Deployment
+
 ## How to Contribute
