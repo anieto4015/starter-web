@@ -1,13 +1,13 @@
 # Starter Web Project
 
-This ris a simple web site project for
+This is a simple web site project for
 showing how to use Git and GitHub together.
 
 ## Introduction
 
-Sample website with plenty of files for demos
-
-Copyrigth Git Training.
+This example is to show different parts 
+of the Git repository and various commands 
+using a web project.
 
 ## Purpose
 
