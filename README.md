@@ -23,3 +23,7 @@ Just a text to catch up.
 
 Just a test to catch up 
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Training.
