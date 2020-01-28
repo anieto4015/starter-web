@@ -3,6 +3,7 @@
 This is a simple web site project for
 showing how to use Git and GitHub together.
 REBASE the...out of this.
+MOre changes after REBASE...
 
 ## Introduction
 
