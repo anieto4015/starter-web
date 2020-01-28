@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Doe -- Worker Bee -- Don't tweet
 
 # THANKS
 
-    <name>
+    The band thank you all
 
 # TECHNOLOGY COLOPHON
 
