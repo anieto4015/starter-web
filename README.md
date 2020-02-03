@@ -29,3 +29,4 @@ Just a test to catch up
 ### Copyright
 
 2014 Git.Training.
+Stash Example
